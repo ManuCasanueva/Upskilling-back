@@ -1,13 +1,13 @@
-# Star Wars Microservices REST API
+* Star Wars Microservices REST API
 
 Welcome to the Star Wars Microservices REST API, a collection of microservices that provide information about the Star Wars universe.
 
-## Features
+** Features
 
 - CRUD operations for Characters, Planets and Films from Star Wars universe.
 - Error handling
 
-## Technologies
+* Technologies
 
 - Node.js
 - TypeScript
@@ -17,11 +17,11 @@ Welcome to the Star Wars Microservices REST API, a collection of microservices t
 - HTTP-Proxy-Middleware
 - Docker
 
-## Scripts
+* Scripts
 
 - `dev`: Run the server.
 
-## Deployment
+* Deployment
 
 The Star Wars Microservices REST API is deployed and accessible on Google Cloud. You can interact with the API by making requests to the following base URL:
 
@@ -29,23 +29,23 @@ The Star Wars Microservices REST API is deployed and accessible on Google Cloud.
 
 Please note that you do not need to set up or run the application locally. Simply use the provided base URL to access the API and explore the Star Wars universe.
 
-## API endpoints
+* API endpoints
 
 ### Characters
 
 - `GET /characters`: Get all characters
 - `POST /characters`: Create a new character
 
-### Planets
+* Planets
 
 - `GET /planets`: Get all planets
 - `POST /planets`: Create a new planet
 
-### Films
+* Films
 
 - `GET /films`: Get all film
 - `POST /films`: Create a new film
 
 ---
 
-🚀Explore the Star Wars universe with our microservices API! 🌌 May the Force be with you 🌟
+🚀 May the Force be with you 🌟
