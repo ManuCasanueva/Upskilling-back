@@ -1,4 +1,4 @@
-* Star Wars Microservices REST API *
+*** Star Wars Microservices REST API ***
 
 Welcome to the Star Wars Microservices REST API, a collection of microservices that provide information about the Star Wars universe.
 
